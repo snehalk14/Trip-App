@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClass14</string>
+    <string name="api_key">AIzaSyBYExUrGhGNc6CMajMUg418fNYtL_QlRJE</string>
+    <string name="title_activity_location_of_places">Map</string>
+</resources>
